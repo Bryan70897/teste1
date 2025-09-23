@@ -1,9 +1,0 @@
-site_name: Eh Fake
-theme:
-  name: material
-  language: pt
-nav:
-  - Início: index.md
-  - Sobre o Projeto: sobre.md
-  - Documentação: documentacao.md
-  - Equipe: equipe.md
