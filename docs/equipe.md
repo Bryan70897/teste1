@@ -1,5 +1,8 @@
 # Equipe de Desenvolvedores
 
-- Fulano – Dev Backend
-- Sicrano – Dev Frontend
-- Beltrano – Gerente de Projeto
+- Davi– Gerente de Projeto
+- Rafael – Dev Frontend
+- Bryan – Product Manager
+- Mateus - Dev Backend
+- Daniel - Analista de Dados
+- Allan - Designer
